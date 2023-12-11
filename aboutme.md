@@ -1,5 +1,0 @@
-- 👋 Olá, eu sou o Rafa.
-- 👀 Sou interessado em programação e desenvolvimento de software.
-- 🌱 Estudante de Egenharia da Computação.
-- 💞️ Estou procurando pessoas que me ensinem ou que trabalhem junto comigo! 
-- 📫 Me mande uma mensagem no Email para me chamar - vulconibraba@gmail.com :)
